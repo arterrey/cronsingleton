@@ -17,7 +17,7 @@ setup(
     license = "BSD",
     keywords = "",
     url = "http://packages.python.org/cronsingleton",
-    packages=['cronsingleton', 'tests'],
+    packages=['cronsingleton'],
     long_description=read('README'),
     classifiers=[
     ],
