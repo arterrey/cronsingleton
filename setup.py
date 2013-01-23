@@ -18,7 +18,7 @@ setup(
     keywords = "",
     url = "http://packages.python.org/cronsingleton",
     packages=['cronsingleton'],
-    long_description=read('README'),
+    long_description=read('README.rst'),
     classifiers=[
     ],
     install_requires=["apscheduler"],
